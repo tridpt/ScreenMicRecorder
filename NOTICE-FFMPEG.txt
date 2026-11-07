@@ -1,0 +1,11 @@
+This application bundles FFmpeg 8.0.1, the essentials build distributed by
+Gyan.dev. The build enables GPL components, including libx264. FFmpeg and
+those components are licensed separately from this application's Python code.
+
+FFmpeg project and source: https://ffmpeg.org/
+FFmpeg legal and license information: https://ffmpeg.org/legal.html
+FFmpeg 8.0.1 source archive: https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+Windows build provider: https://www.gyan.dev/ffmpeg/builds/
+
+If you redistribute the packaged application, comply with FFmpeg's and its
+libraries' license terms, including applicable source-code obligations.
